@@ -1,1 +1,1 @@
-python template.py
+web: python template.py
